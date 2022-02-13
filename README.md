@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruv Agarwal
-- 👀 I’m interested in software development, machine learning, deep learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Machine learning projects.
+- 👀 I’m interested in software development, machine learning and deep learning domain.
+- 🌱 I’m currently learning using deep learning libraries.
+- 💞️ I’m looking to collaborate on project and research work.
 
 <!---
 dhruvagarwal29/dhruvagarwal29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
